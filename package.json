@@ -1,6 +1,6 @@
 {
   "name": "hi2048-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hi2048 scaffold cli.",
   "bin": {
     "hi2048-cli": "./bin/init.js"
